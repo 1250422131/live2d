@@ -1,6 +1,6 @@
 // 注意：live2d_path 参数应使用绝对路径
-const live2d_path = "https://cdn.jsdelivr.net/gh/zxy678/live2d@1.0.2/live2d_load/";
-const tips_path = "https://cdn.jsdelivr.net/gh/zxy678/live2d@1.0.2/live2d_load/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/zxy678/live2d/live2d_load/";
+const tips_path = "https://cdn.jsdelivr.net/gh/zxy678/live2d/live2d_load/";
 //const live2d_path = "";
 //const live2d_path = "/live2d-widget/";
 
