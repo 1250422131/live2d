@@ -2,11 +2,7 @@
 适用于Sakura主题的live2d
 理论适应大部分
 
-1、引入Font Awesome
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"></p>
-
-2、引入js
-<p><script src="https://cdn.jsdelivr.net/gh/zxy678/live2d/live2d_load/autoload.js"></script></p>
+食用方法https://m1314.cn/287.html
 
 
 [Fog-Forest](https://github.com/Fog-Forest/)
