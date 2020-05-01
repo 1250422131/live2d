@@ -3,10 +3,11 @@
 理论适应大部分
 
 1、引入Font Awesome
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+#<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
 
 2、引入js
-<script src="https://cdn.jsdelivr.net/gh/zxy678/live2d/live2d_load/autoload.js"></script>
+#<script src="https://cdn.jsdelivr.net/gh/zxy678/live2d/live2d_load/autoload.js"></script>
+
 
 [Fog-Forest](https://github.com/Fog-Forest/)
 
